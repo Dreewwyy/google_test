@@ -41,9 +41,8 @@ h3 {
 }
 
 img {
-    border-style: dashed;
-    border-width: 2px;
-    border-color: #ccc;
+    margin: 40px;
+    padding: 40px; 
 }
 
 a {
